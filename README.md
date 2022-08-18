@@ -1,9 +1,8 @@
 
 
-# Refurb Market (Mobile App ver.)
+# Refurb Market (모바일 버전)
 
-https://haeun29.github.io/team-refurb-market/  
-
+ https://handabin.github.io/-team-refurb-market/
 
 # 구성요소
 
