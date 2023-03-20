@@ -3,7 +3,7 @@
 # Refurb Market (Mobile App ver.)
 <i> 김하은 정혜수 최홍준 한다빈 </i>
 
-https://haeun29.github.io/team-refurb-market/  
+ https://handabin.github.io/team-refurb-market-mobile_-/
 
 #### ⛔ 모바일로 보시는것을 권장드립니다. ⛔
 
